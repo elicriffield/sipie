@@ -1,3 +1,12 @@
+Sipie is kinda dead it may come back someday but for now,
+please use pyxis: http://ionshard.com/pyxis 
+
+-----
+
+Pronounced SY PIE, like "sirius python", 
+sipie is a on line player for Sirius online Internet streaming. 
+It requires a login to Sirius's streamin
+---
 
 As of somewhere around 11/17/2009 Sirius changed things I rewrote 
 some of sipie to fix it. Remove your ~/.sipie/ directory and 
